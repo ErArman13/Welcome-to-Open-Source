@@ -63,7 +63,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Arman Ahmad" />
                     <br />
                     <sub>
-                        <b>Arman Ahmad</b>
+                        <b>Arman Ahmad </b>
                     </sub>
                 </a>
             </td>
